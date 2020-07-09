@@ -1,4 +1,6 @@
-## Objectives:
+# Refactoring a CLI Gem
+
+## Objectives
 
 * Refactoring a gem.
 * Delegating responsibility to the appropriate class.
