@@ -1,4 +1,4 @@
-# Refactoring a CLI Gem
+# Video: Refactoring a CLI Gem
 
 ## Objectives
 
