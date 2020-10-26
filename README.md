@@ -15,4 +15,4 @@
 
 [Diff](https://github.com/aviflombaum/museum-shows/pull/1/files?diff=unified)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/refactoring-cli-gem'>Refactoring CLI Gem</a> on Learn.co and start learning to code for free.</p>
+
